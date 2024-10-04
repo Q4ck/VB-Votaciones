@@ -1,0 +1,17 @@
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\bin\Debug\net8.0-windows\VOTACIONES.exe
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\bin\Debug\net8.0-windows\VOTACIONES.deps.json
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\bin\Debug\net8.0-windows\VOTACIONES.runtimeconfig.json
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\bin\Debug\net8.0-windows\VOTACIONES.dll
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\bin\Debug\net8.0-windows\VOTACIONES.pdb
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\obj\Debug\net8.0-windows\VOTACIONES.Form1.resources
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\obj\Debug\net8.0-windows\VOTACIONES.Resources.resources
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\obj\Debug\net8.0-windows\VOTACIONES.vbproj.GenerateResource.cache
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\obj\Debug\net8.0-windows\VOTACIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\obj\Debug\net8.0-windows\VOTACIONES.AssemblyInfoInputs.cache
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\obj\Debug\net8.0-windows\VOTACIONES.AssemblyInfo.vb
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\obj\Debug\net8.0-windows\VOTACIONES.vbproj.CoreCompileInputs.cache
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\obj\Debug\net8.0-windows\VOTACIONES.dll
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\obj\Debug\net8.0-windows\refint\VOTACIONES.dll
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\obj\Debug\net8.0-windows\VOTACIONES.pdb
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\obj\Debug\net8.0-windows\VOTACIONES.genruntimeconfig.cache
+C:\Users\estudiente08\Desktop\Decimo\VOTACIONES\VOTACIONES\obj\Debug\net8.0-windows\ref\VOTACIONES.dll
